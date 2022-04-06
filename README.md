@@ -1,5 +1,10 @@
 ## Clone Netflix 👩‍
 
+### Link para acessar 
+
+[Clique aqui para acessar o projeto Hospedado](https://desafioclonenetflix.netlify.app/)
+
+
 <p> Projeto desenvolvido no Bootcamp Carrefour. Aula espetacular.
   Aqui foi visto e adquirido conhecimento sobre HTML, CSS, JAVASCRIPT, PLUGIN J.QUERY , RESPONSIVIDADE. 
   Meu primeiro desafio foi passar pelo entendimento sobre CONTAINER e RESPONSIVIDADE.
