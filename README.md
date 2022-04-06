@@ -4,6 +4,10 @@
 
 [Clique aqui para acessar o projeto Hospedado](https://desafioclonenetflix.netlify.app/)
 
+### Imagem
+
+![clonenetflix](https://user-images.githubusercontent.com/91149537/161874894-08617868-fe8f-4ab2-8d78-8ee89b49550e.png)
+
 
 <p> Projeto desenvolvido no Bootcamp Carrefour. Aula espetacular.
   Aqui foi visto e adquirido conhecimento sobre HTML, CSS, JAVASCRIPT, PLUGIN J.QUERY , RESPONSIVIDADE. 
